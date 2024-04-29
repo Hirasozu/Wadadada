@@ -5,7 +5,8 @@ on:
     - cron: '0 1 * * *' # 6 AM Asian time
     - cron: '0 7 * * *' # 12 PM Asian time
     - cron: '0 13 * * *' # 6 PM Asian time
-    - cron: '0 16 * * *' # 9 PM Asian time
+    - cron: '0 16 * * *' # 9 PM Asian time 
+    - cron: '0 19 * * *' # 9 PM Asian time
 
 jobs:
   study:
