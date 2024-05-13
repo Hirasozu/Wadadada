@@ -91,6 +91,7 @@ try {
 					learningLanguage,
 					smartTipsVersion: 2,
 					skillIds: "3e32cb9708bdc9604e32177c04f1e45e",
+					0: "3e32cb9708bdc9604e32177c04f1e45e",
 					type: "TARGET_PRACTICE",
 				}),
 				headers,
